@@ -1,0 +1,12 @@
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Release\BirKelimeBirIslem.Model.dll.config
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Release\BirKelimeBirIslem.Model.dll
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Release\BirKelimeBirIslem.Model.pdb
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Release\EntityFramework.dll
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Release\EntityFramework.xml
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Release\BirKelimeBirIslem.Model.csprojAssemblyReference.cache
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Release\BirKelimeBirIslem.Model.csproj.CoreCompileInputs.cache
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Release\BirKelimeBirIslem.Model.csproj.CopyComplete
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Release\BirKelimeBirIslem.Model.dll
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.Model\obj\Release\BirKelimeBirIslem.Model.pdb

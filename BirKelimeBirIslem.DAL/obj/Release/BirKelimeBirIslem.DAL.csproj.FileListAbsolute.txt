@@ -1,0 +1,17 @@
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.DAL\bin\Release\BirKelimeBirIslem.DAL.dll.config
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.DAL\bin\Release\BirKelimeBirIslem.DAL.dll
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.DAL\bin\Release\BirKelimeBirIslem.DAL.pdb
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.DAL\bin\Release\BirKelimeBirIslem.Model.dll
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.DAL\bin\Release\EntityFramework.dll
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.DAL\bin\Release\System.Data.OleDb.dll
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.DAL\bin\Release\BirKelimeBirIslem.Model.pdb
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.DAL\bin\Release\BirKelimeBirIslem.Model.dll.config
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.DAL\bin\Release\EntityFramework.xml
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.DAL\bin\Release\System.Data.OleDb.xml
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.DAL\obj\Release\BirKelimeBirIslem.DAL.csprojAssemblyReference.cache
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.DAL\obj\Release\BirKelimeBirIslem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.DAL\obj\Release\BirKelimeBirIslem.DAL.csproj.CopyComplete
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.DAL\obj\Release\BirKelimeBirIslem.DAL.dll
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\YAZILIM YAPIMI - Emin Borandağ - YZM2122\BirKelimeBirIslemYeni\BirKelimeBirIslem.DAL\obj\Release\BirKelimeBirIslem.DAL.pdb
